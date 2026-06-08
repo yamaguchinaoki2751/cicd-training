@@ -1,8 +1,7 @@
-package com.example.demo.SampleTest;
-
-import static org.junit.jupiter.api.Assertions.assertEquals;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SampleTest {
     @Test
