@@ -8,8 +8,8 @@ public class SampleTest {
     @Test
     void SampleTest1(){
         int price1 = 10;
-        int price2 = 5;
+        int price2 = 20;
         int result = price1 + price2;
-        assertEquals(15, result);
+        assertEquals(30, result);
     }
 }
